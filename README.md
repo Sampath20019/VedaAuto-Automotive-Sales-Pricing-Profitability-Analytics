@@ -1,2 +1,12 @@
 # VedaAuto-Automotive-Sales-Pricing-Profitability-Analytics
-End-to-end automotive sales, pricing &amp; profitability analysis using Python, Oracle SQL, Power BI and DAX, with market research, root-cause investigation and data-driven business recommendations.
+Market-research-driven automotive business case study investigating India’s SUV & EV growth, hatchback decline, pricing and profitability. Built with 34,512 transactions 1. Why This Project
+Indian Automobile Market Research
+Business Problem
+Hypotheses
+Dataset
+SQL Analysis
+Power BI Dashboard
+Key Findings
+Business Recommendations
+Project Filesusing Python, Oracle SQL, Power BI & DAX to uncover root causes and deliver data-driven business recommendations
+
